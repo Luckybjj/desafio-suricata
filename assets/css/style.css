@@ -1,0 +1,19 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+    background-color: #E83E8C ;
+    }
+
+
+footer{
+    background-color:#E83E8C ;
+}
+
+
+@media (max-width: 576px) {
+    .icons-section{
+        display: none;
+    }
+}
